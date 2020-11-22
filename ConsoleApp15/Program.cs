@@ -7,6 +7,8 @@ namespace ConsoleApp15
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            var s = 13;
+            /*asdsadas dasdas das das dasd asd asd */
         }
     }
 }
